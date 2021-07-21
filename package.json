@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "hotel-gatsby-pnr",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "A fictional Hotel Site made with Gatsby, GraphQL and DatoCMS",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Pablo Núñez Ruiz <webdeveloper@pablonunezruiz.com>",
   "dependencies": {
     "@emotion/core": "^11.0.0",
     "@emotion/react": "^11.4.0",
